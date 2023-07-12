@@ -1,7 +1,7 @@
 # University of Tehran Workshop, Summer 2022
 This repository contains the contents of the "Python for Economics" workshop at the Economic Science Association, Faculty of Economics, University of Tehran. (Summer 2022)
 
-<img src = "https://github.com/saeed-saffari/Intro-Py-for-Econ-workshop-Sum2022/blob/main/photo_2022-01-27%2016.41.12.jpg?raw=true" width="550" >
+<img src = "https://github.com/saeed-saffari/Intro-Py_for_Econ-workshop-Sum2023/blob/main/Poster001.jpg?raw=true" width="550" >
 
 ## The requirements and recommendations
 
