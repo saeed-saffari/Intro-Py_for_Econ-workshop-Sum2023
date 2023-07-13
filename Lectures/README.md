@@ -21,7 +21,7 @@
 - [Projects*]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 ## Exercises
-- [Exercise 01 (Python Basic)]()
+- [Exercise 01 (Python Basic)](https://drive.google.com/file/d/1rwHcqS16pQ6rCh1CEKI3scmieZR2bfhz/view?usp=sharing)
 - [Exercise 02 (Loops and Functions)]()
 - [Exercise 03 (Numpy and Matplotlib)]()
 - [Exercise 04 (Pandas 01 & 02)]()
