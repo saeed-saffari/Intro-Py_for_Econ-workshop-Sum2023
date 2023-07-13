@@ -6,23 +6,23 @@
 - Python Setup
 - [Object and Data Structure Basics](https://github.com/saeed-saffari/Intro-Py_for_Econ-workshop-Sum2023/blob/main/Lectures/1.%20Introduction%20to%20Python%20(Data%20Structure).ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Intro-Py_for_Econ-workshop-Sum2023/blob/main/Lectures/1.%20Introduction%20to%20Python%20(Data%20Structure).ipynb)
 
-- [Python Statements (Control flow (Loops))]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+- [Python Statements (Control flow (Loops))](https://github.com/saeed-saffari/Intro-Py_for_Econ-workshop-Sum2023/blob/main/Lectures/2.%20Control%20flow%20(Loops).ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Intro-Py_for_Econ-workshop-Sum2023/blob/main/Lectures/2.%20Control%20flow%20(Loops).ipynb)
 
-- [Functions]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+- [Functions](https://github.com/saeed-saffari/Intro-Py_for_Econ-workshop-Sum2023/blob/main/Lectures/3.%20Functions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/Intro-Py_for_Econ-workshop-Sum2023/blob/main/Lectures/3.%20Functions.ipynb)
 
 - Packages:
-  - [Numpy]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
-  - [Matplotlib]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
-  - [Pandas (part 01)]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
-  - [Pandas (part 02)]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
-  - [Pandas (part 03)]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  - [Numpy]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
+  - [Matplotlib]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
+  - [Pandas (part 01)]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
+  - [Pandas (part 02)]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
+  - [Pandas (part 03)]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
   
   
 - [Projects*]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 ## Exercises
 - [Exercise 01 (Python Basic)](https://drive.google.com/file/d/1rwHcqS16pQ6rCh1CEKI3scmieZR2bfhz/view?usp=sharing)
-- [Exercise 02 (Loops and Functions)]()
+- [Exercise 02 (Loops and Functions)](https://drive.google.com/file/d/17zAxXwrenjtQqlPncnS8yWn7TUAJh51b/view?usp=sharing)
 - [Exercise 03 (Numpy and Matplotlib)]()
 - [Exercise 04 (Pandas 01 & 02)]()
 - [Exercise 05 (Pandas 03)]()
